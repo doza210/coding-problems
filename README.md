@@ -217,13 +217,14 @@ If the problems from [LeetCode](https://leetcode.com/) are not enough and you ne
 ### Other Resources
 
 1. [Geeks For Geeks](https://www.geeksforgeeks.org/) - The site which **all** interested in algorithms (no matter if beginners or experts) should know! [YouTube channel](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) with many useful videos.
-2. [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Great GitHub repo with many algorithms written in Python ([Link](https://github.com/TheAlgorithms) from the same repo written in other programming languages).
-3. [CP Algorithms](http://cp-algorithms.com/) - Great page with excellent explanations for various algorithms.
-4. Visualizers:
+2. [W3schools](https://www.w3schools.com/) - This site is similar to geekforgeeks and has tutorials, references, exercises, and even certifications for various languages
+3. [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Great GitHub repo with many algorithms written in Python ([Link](https://github.com/TheAlgorithms) from the same repo written in other programming languages).
+4. [CP Algorithms](http://cp-algorithms.com/) - Great page with excellent explanations for various algorithms.
+5. Visualizers:
     - [USFCA Visualization Tool](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Great tool for visualizing data structures and algorithms, created by the University of San Francisco.
     - [VisuAlgo](https://visualgo.net/en) - Another great tool for visualizing data structures and algorithms through animation.
     - [Algorithm Visualizer](https://algorithm-visualizer.org/) - Interactive online platform that visualizes algorithms from code. This platform is an open-source project, [here](https://github.com/algorithm-visualizer/algorithm-visualizer) you can find the source code.
-5. Courses and tutorials (but not from universities like the [Courses](#Courses) section):
+6. Courses and tutorials (but not from universities like the [Courses](#Courses) section):
     - [Google - Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Free course on Udacity offered by Google.
     - [HackerEarth - Tutorials and Practice](https://www.hackerearth.com/practice/) - Practice problems and learn about many algorithms and data structures needed for competitive programming.
     - [KhanAcademy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Good explanations for some basic algorithms.
@@ -231,7 +232,7 @@ If the problems from [LeetCode](https://leetcode.com/) are not enough and you ne
     - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa) - One more platform which explains the data structures and algorithms in a simple and interesting way.
     - [Hackr.io - Data Structures and Algorithms Tutorials and Courses](https://hackr.io/tutorials/learn-data-structures-algorithms) - Big collection of tutorials and courses.
     - [Scaler - Data Structures Tutorial](https://www.scaler.com/topics/data-structures/) - Interesting and interactive explanations of some basic data structures.
-6. YouTube playlists with tutorials:
+7. YouTube playlists with tutorials:
     - [Data Structures by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Data Structures by HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
     - [Algorithms by HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
